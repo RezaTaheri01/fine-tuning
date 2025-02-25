@@ -1,4 +1,4 @@
-# Fine-Tuning Ollama's LLMs with Unsloth
+# Fine-Tuning Ollama's LLMs with Unsloth(For Fun)
 
 [Unsloth](https://github.com/unslothai/unsloth)<br>
 [Ollama](https://github.com/ollama/ollama)
